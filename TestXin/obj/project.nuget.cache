@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "p8qu/xqkiL7r+Ib/Uvhxirmlz/WMmd0KwhzfsA/EkiMJMplo2H6lDpzI5KMMUA3t79UntnXMW4dolSecgwFV1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gympie_Gympie\\Desktop\\Инфа\\Второй семестр\\Технология разработки-Подобин\\Практика 2.1\\TestXin\\TestXin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gympie_Gympie\\.nuget\\packages\\fluentassertions\\6.12.0\\fluentassertions.6.12.0.nupkg.sha512",
+    "C:\\Users\\Gympie_Gympie\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\Gympie_Gympie\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

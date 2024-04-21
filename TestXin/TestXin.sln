@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestXin", "TestXin.csproj", "{7126BF13-08C3-4159-B63E-A65A1C43D75B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XTestXinkal", "..\XTestXinkal\XTestXinkal.csproj", "{BDB752DA-F7AB-468F-9B1E-A78200D94616}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7126BF13-08C3-4159-B63E-A65A1C43D75B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7126BF13-08C3-4159-B63E-A65A1C43D75B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7126BF13-08C3-4159-B63E-A65A1C43D75B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7126BF13-08C3-4159-B63E-A65A1C43D75B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDB752DA-F7AB-468F-9B1E-A78200D94616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB752DA-F7AB-468F-9B1E-A78200D94616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB752DA-F7AB-468F-9B1E-A78200D94616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB752DA-F7AB-468F-9B1E-A78200D94616}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B14A466-19AF-4901-807B-D1218AC8C402}
+	EndGlobalSection
+EndGlobal
