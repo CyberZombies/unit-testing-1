@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gympie_Gympie\\Desktop\\Инфа\\Второй семестр\\Технология разработки-Подобин\\Практика 2.1\\TestXin\\TestXin.csproj": {}
+    "C:\\Users\\Gympie_Gympie\\Desktop\\Инфа\\Второй_семестр\\Технология_разработки-Подобин\\Практика_2.2\\TestXin\\TestXin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gympie_Gympie\\Desktop\\Инфа\\Второй семестр\\Технология разработки-Подобин\\Практика 2.1\\TestXin\\TestXin.csproj": {
+    "C:\\Users\\Gympie_Gympie\\Desktop\\Инфа\\Второй_семестр\\Технология_разработки-Подобин\\Практика_2.2\\TestXin\\TestXin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gympie_Gympie\\Desktop\\Инфа\\Второй семестр\\Технология разработки-Подобин\\Практика 2.1\\TestXin\\TestXin.csproj",
+        "projectUniqueName": "C:\\Users\\Gympie_Gympie\\Desktop\\Инфа\\Второй_семестр\\Технология_разработки-Подобин\\Практика_2.2\\TestXin\\TestXin.csproj",
         "projectName": "TestXin",
-        "projectPath": "C:\\Users\\Gympie_Gympie\\Desktop\\Инфа\\Второй семестр\\Технология разработки-Подобин\\Практика 2.1\\TestXin\\TestXin.csproj",
+        "projectPath": "C:\\Users\\Gympie_Gympie\\Desktop\\Инфа\\Второй_семестр\\Технология_разработки-Подобин\\Практика_2.2\\TestXin\\TestXin.csproj",
         "packagesPath": "C:\\Users\\Gympie_Gympie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gympie_Gympie\\Desktop\\Инфа\\Второй семестр\\Технология разработки-Подобин\\Практика 2.1\\TestXin\\obj\\",
+        "outputPath": "C:\\Users\\Gympie_Gympie\\Desktop\\Инфа\\Второй_семестр\\Технология_разработки-Подобин\\Практика_2.2\\TestXin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

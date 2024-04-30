@@ -49,6 +49,48 @@ public class KhinkaliWithCheeseAndMushrooms
     }
 }
 
+public class AdditionOperations
+{
+    public static int Add(int a, int b)
+    {
+        return a + b;
+    }
+}
+public class SubtractionOperations
+{
+    public static int Subtract(int a, int b)
+    {
+        return a - b;
+    }
+}
+public class MultiplicationOperations
+{
+    public static int Multiply(int a, int b)
+    {
+        return a * b;
+    }
+}
+public class DivisionOperations
+{
+    public static int Divide(int a, int b)
+    {
+        if (b == 0)
+        {
+            throw new DivideByZeroException("Нельзя делить на ноль.");
+        }
+        return a / b;
+    }
+
+    public static int Modulo(int a, int b)
+    {
+        if (b == 0)
+        {
+            throw new DivideByZeroException("Нельзя делить на ноль.");
+        }
+        return a % b;
+    }
+}
+
 public class Wordls
 {
     static void Main(string[] args)
@@ -59,7 +101,16 @@ public class Wordls
 
         string dough = khinkali.PrepareDough();
         string filling = khinkali.PrepareFilling();
-
+        int result = AdditionOperations.Add(5, 3);
+        Console.WriteLine(result);
+        result = SubtractionOperations.Subtract(10, 4);
+        Console.WriteLine(result);
+        result = MultiplicationOperations.Multiply(2, 7);
+        Console.WriteLine(result);
+        result = DivisionOperations.Divide(15, 3);
+        Console.WriteLine(result);
+        result = DivisionOperations.Modulo(17, 5);
+        Console.WriteLine(result);
 
         Console.WriteLine(dough);
         Console.WriteLine(filling);

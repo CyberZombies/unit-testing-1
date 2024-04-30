@@ -1,16 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gympie_Gympie\\Desktop\\\u0418\u043D\u0444\u0430\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u041F\u043E\u0434\u043E\u0431\u0438\u043D\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2.1\\TestXin\\",
+  "WorkspaceRootPath": "C:\\Users\\Gympie_Gympie\\Desktop\\\u0418\u043D\u0444\u0430\\\u0412\u0442\u043E\u0440\u043E\u0439_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F_\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u041F\u043E\u0434\u043E\u0431\u0438\u043D\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_2.2\\TestXin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDB752DA-F7AB-468F-9B1E-A78200D94616}|..\\XTestXinkal\\XTestXinkal.csproj|c:\\users\\gympie_gympie\\desktop\\\u0438\u043D\u0444\u0430\\\u0432\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u043F\u043E\u0434\u043E\u0431\u0438\u043D\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2.1\\xtestxinkal\\pinktest\\nethinkalsertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDB752DA-F7AB-468F-9B1E-A78200D94616}|..\\XTestXinkal\\XTestXinkal.csproj|c:\\users\\gympie_gympie\\desktop\\\u0438\u043D\u0444\u0430\\\u0432\u0442\u043E\u0440\u043E\u0439_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F_\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u043F\u043E\u0434\u043E\u0431\u0438\u043D\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_2.2\\xtestxinkal\\pinktest\\nethinkalsertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDB752DA-F7AB-468F-9B1E-A78200D94616}|..\\XTestXinkal\\XTestXinkal.csproj|c:\\users\\gympie_gympie\\desktop\\\u0438\u043D\u0444\u0430\\\u0432\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u043F\u043E\u0434\u043E\u0431\u0438\u043D\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2.1\\xtestxinkal\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7126BF13-08C3-4159-B63E-A65A1C43D75B}|TestXin.csproj|c:\\users\\gympie_gympie\\desktop\\\u0438\u043D\u0444\u0430\\\u0432\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u043F\u043E\u0434\u043E\u0431\u0438\u043D\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2.1\\testxin\\ping\\nethink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7126BF13-08C3-4159-B63E-A65A1C43D75B}|TestXin.csproj|c:\\users\\gympie_gympie\\desktop\\\u0438\u043D\u0444\u0430\\\u0432\u0442\u043E\u0440\u043E\u0439_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F_\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u043F\u043E\u0434\u043E\u0431\u0438\u043D\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_2.2\\testxin\\ping\\nethink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7126BF13-08C3-4159-B63E-A65A1C43D75B}|TestXin.csproj|solutionrelative:ping\\nethink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB752DA-F7AB-468F-9B1E-A78200D94616}|..\\XTestXinkal\\XTestXinkal.csproj|c:\\users\\gympie_gympie\\desktop\\\u0438\u043D\u0444\u0430\\\u0432\u0442\u043E\u0440\u043E\u0439_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F_\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u043F\u043E\u0434\u043E\u0431\u0438\u043D\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_2.2\\xtestxinkal\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gympie_Gympie\\Desktop\\\u0418\u043D\u0444\u0430\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u041F\u043E\u0434\u043E\u0431\u0438\u043D\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2.1\\XTestXinkal\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gympie_Gympie\\Desktop\\\u0418\u043D\u0444\u0430\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u041F\u043E\u0434\u043E\u0431\u0438\u043D\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2.1\\XTestXinkal\\PinkTest\\NetHinkalSerTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,48 +26,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NetHinkalSerTest.cs",
-              "DocumentMoniker": "C:\\Users\\Gympie_Gympie\\Desktop\\\u0418\u043D\u0444\u0430\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u041F\u043E\u0434\u043E\u0431\u0438\u043D\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2.1\\XTestXinkal\\PinkTest\\NetHinkalSerTest.cs",
-              "RelativeDocumentMoniker": "..\\XTestXinkal\\PinkTest\\NetHinkalSerTest.cs",
-              "ToolTip": "C:\\Users\\Gympie_Gympie\\Desktop\\\u0418\u043D\u0444\u0430\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u041F\u043E\u0434\u043E\u0431\u0438\u043D\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2.1\\XTestXinkal\\PinkTest\\NetHinkalSerTest.cs",
-              "RelativeToolTip": "..\\XTestXinkal\\PinkTest\\NetHinkalSerTest.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T11:29:02.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\Gympie_Gympie\\Desktop\\\u0418\u043D\u0444\u0430\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u041F\u043E\u0434\u043E\u0431\u0438\u043D\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2.1\\XTestXinkal\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "..\\XTestXinkal\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\Gympie_Gympie\\Desktop\\\u0418\u043D\u0444\u0430\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u041F\u043E\u0434\u043E\u0431\u0438\u043D\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2.1\\XTestXinkal\\UnitTest1.cs",
-              "RelativeToolTip": "..\\XTestXinkal\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T11:25:53.911Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "NetHink.cs",
-              "DocumentMoniker": "C:\\Users\\Gympie_Gympie\\Desktop\\\u0418\u043D\u0444\u0430\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u041F\u043E\u0434\u043E\u0431\u0438\u043D\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2.1\\TestXin\\Ping\\NetHink.cs",
-              "RelativeDocumentMoniker": "Ping\\NetHink.cs",
-              "ToolTip": "C:\\Users\\Gympie_Gympie\\Desktop\\\u0418\u043D\u0444\u0430\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u041F\u043E\u0434\u043E\u0431\u0438\u043D\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2.1\\TestXin\\Ping\\NetHink.cs",
-              "RelativeToolTip": "Ping\\NetHink.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAqwEAAAAAjAAAA",
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Gympie_Gympie\\Desktop\\\u0418\u043D\u0444\u0430\\\u0412\u0442\u043E\u0440\u043E\u0439_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F_\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u041F\u043E\u0434\u043E\u0431\u0438\u043D\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_2.2\\XTestXinkal\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\XTestXinkal\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Gympie_Gympie\\Desktop\\\u0418\u043D\u0444\u0430\\\u0412\u0442\u043E\u0440\u043E\u0439_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F_\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u041F\u043E\u0434\u043E\u0431\u0438\u043D\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_2.2\\XTestXinkal\\UnitTest1.cs",
+              "RelativeToolTip": "..\\XTestXinkal\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T11:27:57.729Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-04-30T19:11:13.119Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -70,6 +48,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NetHinkalSerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Gympie_Gympie\\Desktop\\\u0418\u043D\u0444\u0430\\\u0412\u0442\u043E\u0440\u043E\u0439_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F_\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u041F\u043E\u0434\u043E\u0431\u0438\u043D\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_2.2\\XTestXinkal\\PinkTest\\NetHinkalSerTest.cs",
+              "RelativeDocumentMoniker": "..\\XTestXinkal\\PinkTest\\NetHinkalSerTest.cs",
+              "ToolTip": "C:\\Users\\Gympie_Gympie\\Desktop\\\u0418\u043D\u0444\u0430\\\u0412\u0442\u043E\u0440\u043E\u0439_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F_\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u041F\u043E\u0434\u043E\u0431\u0438\u043D\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_2.2\\XTestXinkal\\PinkTest\\NetHinkalSerTest.cs",
+              "RelativeToolTip": "..\\XTestXinkal\\PinkTest\\NetHinkalSerTest.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T19:10:34.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NetHinkalSerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Gympie_Gympie\\Desktop\\\u0418\u043D\u0444\u0430\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u041F\u043E\u0434\u043E\u0431\u0438\u043D\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2.1\\XTestXinkal\\PinkTest\\NetHinkalSerTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u041F\u043E\u0434\u043E\u0431\u0438\u043D\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2.1\\XTestXinkal\\PinkTest\\NetHinkalSerTest.cs",
+              "ToolTip": "C:\\Users\\Gympie_Gympie\\Desktop\\\u0418\u043D\u0444\u0430\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u041F\u043E\u0434\u043E\u0431\u0438\u043D\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2.1\\XTestXinkal\\PinkTest\\NetHinkalSerTest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u041F\u043E\u0434\u043E\u0431\u0438\u043D\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2.1\\XTestXinkal\\PinkTest\\NetHinkalSerTest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:29:02.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Gympie_Gympie\\Desktop\\\u0418\u043D\u0444\u0430\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u041F\u043E\u0434\u043E\u0431\u0438\u043D\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2.1\\XTestXinkal\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u041F\u043E\u0434\u043E\u0431\u0438\u043D\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2.1\\XTestXinkal\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Gympie_Gympie\\Desktop\\\u0418\u043D\u0444\u0430\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u041F\u043E\u0434\u043E\u0431\u0438\u043D\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2.1\\XTestXinkal\\UnitTest1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u041F\u043E\u0434\u043E\u0431\u0438\u043D\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2.1\\XTestXinkal\\UnitTest1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:25:53.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NetHink.cs",
+              "DocumentMoniker": "C:\\Users\\Gympie_Gympie\\Desktop\\\u0418\u043D\u0444\u0430\\\u0412\u0442\u043E\u0440\u043E\u0439_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F_\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u041F\u043E\u0434\u043E\u0431\u0438\u043D\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_2.2\\TestXin\\Ping\\NetHink.cs",
+              "RelativeDocumentMoniker": "Ping\\NetHink.cs",
+              "ToolTip": "C:\\Users\\Gympie_Gympie\\Desktop\\\u0418\u043D\u0444\u0430\\\u0412\u0442\u043E\u0440\u043E\u0439_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F_\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438-\u041F\u043E\u0434\u043E\u0431\u0438\u043D\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_2.2\\TestXin\\Ping\\NetHink.cs",
+              "RelativeToolTip": "Ping\\NetHink.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAkwAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:27:57.729Z",
+              "EditorCaption": ""
             }
           ]
         },

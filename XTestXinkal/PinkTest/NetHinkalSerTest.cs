@@ -18,5 +18,32 @@ namespace XTestXinkal.PinkTest
             Console.WriteLine(dough);
             Console.WriteLine(filling);
         }
+        [Fact]
+        public void AdditionExample()
+        {
+            int result = AdditionOperations.Add(5, 3);
+            Console.WriteLine(result);
+        }
+        [Fact]
+        public void SubtractionExample()
+        {
+            int result = SubtractionOperations.Subtract(10, 4);
+            Console.WriteLine(result);
+        }
+        [Fact]
+        public void MultiplicationExample()
+        {
+            int result = MultiplicationOperations.Multiply(2, 7);
+            Console.WriteLine(result);
+        }
+        [Fact]
+        public void DivisionExample()
+        {
+            int result = DivisionOperations.Divide(15, 3);
+            Console.WriteLine(result);
+
+            result = DivisionOperations.Modulo(17, 5);
+            Console.WriteLine(result);
+        }
     }
 }

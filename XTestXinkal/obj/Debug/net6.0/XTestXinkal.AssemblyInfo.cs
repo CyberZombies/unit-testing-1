@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XTestXinkal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adf0245abc52700b5edfa07b3a5df84f2341d9de")]
 [assembly: System.Reflection.AssemblyProductAttribute("XTestXinkal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XTestXinkal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

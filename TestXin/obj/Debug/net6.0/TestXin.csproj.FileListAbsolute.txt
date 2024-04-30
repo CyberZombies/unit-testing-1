@@ -18,3 +18,24 @@ C:\Users\Gympie_Gympie\Desktop\Инфа\Второй семестр\Технол
 C:\Users\Gympie_Gympie\Desktop\Инфа\Второй семестр\Технология разработки-Подобин\Практика 2.1\TestXin\obj\Debug\net6.0\TestXin.pdb
 C:\Users\Gympie_Gympie\Desktop\Инфа\Второй семестр\Технология разработки-Подобин\Практика 2.1\TestXin\obj\Debug\net6.0\TestXin.genruntimeconfig.cache
 C:\Users\Gympie_Gympie\Desktop\Инфа\Второй семестр\Технология разработки-Подобин\Практика 2.1\TestXin\obj\Debug\net6.0\ref\TestXin.dll
+C:\Users\Gympie_Gympie\Desktop\Инфа\Второй_семестр\Технология_разработки-Подобин\Практика_2.2\TestXin\bin\Debug\net6.0\TestXin.exe
+C:\Users\Gympie_Gympie\Desktop\Инфа\Второй_семестр\Технология_разработки-Подобин\Практика_2.2\TestXin\bin\Debug\net6.0\TestXin.deps.json
+C:\Users\Gympie_Gympie\Desktop\Инфа\Второй_семестр\Технология_разработки-Подобин\Практика_2.2\TestXin\bin\Debug\net6.0\TestXin.runtimeconfig.json
+C:\Users\Gympie_Gympie\Desktop\Инфа\Второй_семестр\Технология_разработки-Подобин\Практика_2.2\TestXin\bin\Debug\net6.0\TestXin.dll
+C:\Users\Gympie_Gympie\Desktop\Инфа\Второй_семестр\Технология_разработки-Подобин\Практика_2.2\TestXin\bin\Debug\net6.0\TestXin.pdb
+C:\Users\Gympie_Gympie\Desktop\Инфа\Второй_семестр\Технология_разработки-Подобин\Практика_2.2\TestXin\bin\Debug\net6.0\FluentAssertions.dll
+C:\Users\Gympie_Gympie\Desktop\Инфа\Второй_семестр\Технология_разработки-Подобин\Практика_2.2\TestXin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Gympie_Gympie\Desktop\Инфа\Второй_семестр\Технология_разработки-Подобин\Практика_2.2\TestXin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gympie_Gympie\Desktop\Инфа\Второй_семестр\Технология_разработки-Подобин\Практика_2.2\TestXin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gympie_Gympie\Desktop\Инфа\Второй_семестр\Технология_разработки-Подобин\Практика_2.2\TestXin\obj\Debug\net6.0\TestXin.csproj.AssemblyReference.cache
+C:\Users\Gympie_Gympie\Desktop\Инфа\Второй_семестр\Технология_разработки-Подобин\Практика_2.2\TestXin\obj\Debug\net6.0\TestXin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gympie_Gympie\Desktop\Инфа\Второй_семестр\Технология_разработки-Подобин\Практика_2.2\TestXin\obj\Debug\net6.0\TestXin.AssemblyInfoInputs.cache
+C:\Users\Gympie_Gympie\Desktop\Инфа\Второй_семестр\Технология_разработки-Подобин\Практика_2.2\TestXin\obj\Debug\net6.0\TestXin.AssemblyInfo.cs
+C:\Users\Gympie_Gympie\Desktop\Инфа\Второй_семестр\Технология_разработки-Подобин\Практика_2.2\TestXin\obj\Debug\net6.0\TestXin.csproj.CoreCompileInputs.cache
+C:\Users\Gympie_Gympie\Desktop\Инфа\Второй_семестр\Технология_разработки-Подобин\Практика_2.2\TestXin\obj\Debug\net6.0\TestXin.sourcelink.json
+C:\Users\Gympie_Gympie\Desktop\Инфа\Второй_семестр\Технология_разработки-Подобин\Практика_2.2\TestXin\obj\Debug\net6.0\TestXin.csproj.Up2Date
+C:\Users\Gympie_Gympie\Desktop\Инфа\Второй_семестр\Технология_разработки-Подобин\Практика_2.2\TestXin\obj\Debug\net6.0\TestXin.dll
+C:\Users\Gympie_Gympie\Desktop\Инфа\Второй_семестр\Технология_разработки-Подобин\Практика_2.2\TestXin\obj\Debug\net6.0\refint\TestXin.dll
+C:\Users\Gympie_Gympie\Desktop\Инфа\Второй_семестр\Технология_разработки-Подобин\Практика_2.2\TestXin\obj\Debug\net6.0\TestXin.pdb
+C:\Users\Gympie_Gympie\Desktop\Инфа\Второй_семестр\Технология_разработки-Подобин\Практика_2.2\TestXin\obj\Debug\net6.0\TestXin.genruntimeconfig.cache
+C:\Users\Gympie_Gympie\Desktop\Инфа\Второй_семестр\Технология_разработки-Подобин\Практика_2.2\TestXin\obj\Debug\net6.0\ref\TestXin.dll
