@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
     class AdditionOperations {
         +static Add(int, int) int
@@ -43,3 +44,4 @@ classDiagram
     }
     
     Khinkali <|-- KhinkaliWithCheeseAndMushrooms
+```
